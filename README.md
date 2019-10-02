@@ -1,2 +1,2 @@
 # Juoma-automaatti
-Olio-ohjelmoinnin harjoittelua
+Olio-ohjelmoinnin harjoittelua yksinkertaisen juoma-automaatin avulla.
